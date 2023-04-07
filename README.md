@@ -18,7 +18,7 @@ and a one-to-many with the vehicle's pendecies. This project is here on my GitHu
     <img align="center"  height="40" width="40" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png">
     <img align="center" height="40" width="40" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png">
     <img align="center"  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
-    <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="40" width="40" margin-rigth="10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center"  height="40" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png">
 </div>
 
