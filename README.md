@@ -15,7 +15,7 @@ and a one-to-many with the vehicle's pendecies. This project is here on my GitHu
 
 ## My stack 📚
    <div style="display: inline_block"><br>
-    <img align="center" margin-right="20"  height="40" width="40" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png](https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png">
+    <img align="center" margin-right="20"  height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
     <img align="center" margin-right="20" height="40" width="40" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png">
     <img align="center" margin-right="20"  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
     <img align="center" height="40" width="40" margin-right="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
