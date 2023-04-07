@@ -13,7 +13,7 @@ and a one-to-many with the vehicle's pendecies. This project is here on my GitHu
 
 
 
-## My stack
+## My stack 📚
    <div style="display: inline_block"><br>
     <img align="center" margin-right="20"  height="40" width="40" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png">
     <img align="center" margin-right="20" height="40" width="40" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png">
