@@ -9,7 +9,6 @@
     <img align="center" alt="Rafa-React" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
     <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png">
-     <img align="right" alt="Rafa-pic" height="150" style="border-radius: 20px;" src="https://img.freepik.com/free-vector/cute-astronaut-read-book-planet-cartoon-icon-illustration-science-technology-icon-concept-isolated-flat-cartoon-style_138676-2091.jpg">
 </div>
 
   </div>
