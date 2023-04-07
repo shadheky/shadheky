@@ -1,4 +1,12 @@
-## Ola! eu sou o Luiz
+## Hi! I'm Luiz 👋
+My name is Luiz Alberto, and I am Graduate student in Systems Analysis and Development.
+
+## About me 📕
+I'm Java/Spring developer, and my main skill is the development of REST APIs.
+
+## My projects 💻
+My current main project is a vehicle API, where the vehicle is a many-to-one entity with the owner entity 
+and a one-to-many with the vehicle's pendecies. This project is here on my GitHub under the name VehiclesAPI.
 
 
 ![Luiz Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadheky&show_icons=true&theme=cobalt)
