@@ -8,9 +8,12 @@ I'm Java/Spring developer, and my main skill is the development of REST APIs.
 My current main project is a vehicle API, where the vehicle is a many-to-one entity with the owner entity 
 and a one-to-many with the vehicle's pendecies. This project is here on my GitHub under the name VehiclesAPI.
 
-
+## My GitHub Stats 📈
 ![Luiz Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadheky&show_icons=true&theme=cobalt)
 
+
+
+## My stack
    <div style="display: inline_block"><br>
     <img align="center"  height="40" width="40" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png">
     <img align="center" height="40" width="40" src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png">
@@ -21,7 +24,7 @@ and a one-to-many with the vehicle's pendecies. This project is here on my GitHu
 
   </div>
 
-##
+## Do you need a Back-end Java developer? Contact me 📧
 
    
 <div> 
