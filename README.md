@@ -1,7 +1,7 @@
 ## Ola! eu sou o Luiz
 
 
-![Luiz Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadheky&show_icons=true&theme=transparent)
+![Luiz Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadheky&show_icons=true&theme=dracula)
 
    <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-Js" height="40" width="40" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png">
