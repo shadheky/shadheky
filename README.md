@@ -25,7 +25,7 @@ and a one-to-many with the vehicle's pendecies. This project is here on my GitHu
   </div>
 
 ## My Portfolio
-   <a href="https://main.d246o1tc1vd099.amplifyapp.com/](https://main--merry-mandazi-848fd2.netlify.app/">Portifolio</a>
+   <a href="https://main--merry-mandazi-848fd2.netlify.app/">Portifolio</a>
 
 ## Do you need a Back-end Java developer? Contact me 📧
 
