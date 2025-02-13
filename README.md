@@ -20,8 +20,6 @@ and a one-to-many with the vehicle's pendecies. This project is here on my GitHu
     <img align="center" margin-right="20"  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
     <img align="center" height="40" width="40" margin-right="20" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png">
     <img align="center" margin-right="20"  height="40" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png">
-
-    <img align="center" margin-right="20"  height="40" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png">
 </div>
 
   </div>
